@@ -14,11 +14,11 @@ export default function Left(){
 
     <div className="ml-10 text-side mt-8">
         <h2 className="text-[22px] text-side mb-5 font-semibold">WHAT PAYMENT OPTIONS CAN I USE ON NIKE ORDERS?</h2>
-        <p className="text-[12px] mb-5">We want to make buying your favourite Nike shoes and gear online fast and easy, and we accept the following payment options</p>
+        <p className="text-[12px] mb-5">We want to make buying your favourite Nike shoes and gear online fast and easy and we accept the following payment options</p>
         <p className="text-[12px] ml-10 mb-5">Visa Mastercard Diners Club Discover American Express Visa Electron Maestro</p>
         <p className="text-[12px] ml-10 mb-5">If you enter your PAN information at checkout youll be able to pay for your order with PayTM or a local credit or debit card.</p>
         <p className="text-[12px] ml-10 mb-5">Apple Pay</p>
-        <p className="text-[12px] mb-5">Nike Members can store multiple debit or credit cards in their profile for faster checkout. If you're not already a Member, join  <br/>us today.</p>
+        <p className="text-[12px] mb-5">Nike Members can store multiple debit or credit cards in their profile for faster checkout. If you're not already a Member join  <br/>us today.</p>
         </div>
     
         <div className="flex space-x-5 mt-5 ml-10">
