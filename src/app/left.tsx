@@ -18,7 +18,7 @@ export default function Left(){
         <p className="text-[12px] ml-10 mb-5">Visa Mastercard Diners Club Discover American Express Visa Electron Maestro</p>
         <p className="text-[12px] ml-10 mb-5">If you enter your PAN information at checkout youll be able to pay for your order with PayTM or a local credit or debit card.</p>
         <p className="text-[12px] ml-10 mb-5">Apple Pay</p>
-        <p className="text-[12px] mb-5">Nike Members can store multiple debit or credit cards in their profile for faster checkout. If you're not already a Member join  <br/>us today.</p>
+        <p className="text-[12px] mb-5">Nike Members can store multiple debit or credit cards in their profile for faster checkout. If youre not already a Member join  <br/>us today.</p>
         </div>
     
         <div className="flex space-x-5 mt-5 ml-10">
